@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Simple guided python project that does word count and character frequency analysis on text data.
